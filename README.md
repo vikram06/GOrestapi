@@ -1,2 +1,2 @@
 # GOrestapi
-Simple rest API in (aka golang) Google GO 
+Simple RESTful API in (aka golang) Google GO 
